@@ -28,6 +28,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./Output/Desktop-Output.png)
+---------------------------------
 ![](./Output/Mobile-Output.png)
 
 ### Links
@@ -49,5 +50,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Fylo-dark-theme-landing-page](https://github.com/AmanGupta1703/Fylo-Dark-Theme-Landing-Page)
+- Website - [Fylo-dark-theme-landing-page](https://github.com/AmanGupta1703/Fylo-Dark-Theme-Landing-Page/)
 - Frontend Mentor - [@AmanGupta1703](https://www.frontendmentor.io/profile/AmanGupta1703)
