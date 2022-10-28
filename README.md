@@ -1,6 +1,6 @@
-# Huddle-landing-page-with-a-single-introductory-section
+# Fylo-dark-theme-landing-page-master
 ------
-# Frontend Mentor - Huddle landing page with single introductory section solution
+# Frontend Mentor - Fylo dark theme landing page section solution
 
 This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []
+- Solution URL: [https://github.com/AmanGupta1703/Fylo-Dark-Theme-Landing-Page]
 - Live Site URL: []
 
 ## My process
@@ -49,5 +49,5 @@ Users should be able to:
 
 ## Author
 
-- Website - []()
+- Website - [Fylo-dark-theme-landing-page](https://github.com/AmanGupta1703/Fylo-Dark-Theme-Landing-Page)
 - Frontend Mentor - [@AmanGupta1703](https://www.frontendmentor.io/profile/AmanGupta1703)
