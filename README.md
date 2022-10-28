@@ -34,7 +34,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/AmanGupta1703/Fylo-Dark-Theme-Landing-Page]
-- Live Site URL: []
+-------------------
+- Live Site URL: [https://amangupta1703.github.io/Fylo-Dark-Theme-Landing-Page/]
 
 ## My process
 
@@ -50,5 +51,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Fylo-dark-theme-landing-page](https://github.com/AmanGupta1703/Fylo-Dark-Theme-Landing-Page/)
+- Website - [Fylo-dark-theme-landing-page](https://amangupta1703.github.io/Fylo-Dark-Theme-Landing-Page/)
 - Frontend Mentor - [@AmanGupta1703](https://www.frontendmentor.io/profile/AmanGupta1703)
