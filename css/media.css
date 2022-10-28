@@ -1,0 +1,117 @@
+@media screen and (max-width: 786px) {
+  #header {
+    padding: 5% 4%;
+  }
+
+  .logo {
+    width: 5rem;
+  }
+
+  .nav-item {
+    font-size: 0.8rem;
+    margin-left: 2rem;
+  }
+
+  .img-box img {
+    width: 18rem;
+  }
+
+  .text-box {
+    width: 100%;
+  }
+
+  .big-heading {
+    font-size: 1.2rem;
+  }
+
+  .intro-text {
+    font-size: 1rem;
+  }
+
+  /* FEATURE */
+
+  .feature-item {
+    padding: 2rem 10%;
+  }
+
+  /* STORAGE SECTION */
+  #storage {
+    flex-direction: column;
+  }
+
+  .left img {
+    width: 20rem;
+  }
+
+  .right {
+    width: 100%;
+  }
+
+  .right p {
+    font-size: 12px;
+  }
+
+  /* CUSTOMER REVIEW */
+  #review {
+    padding: 2rem 4%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .box {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .box-item {
+    width: 90%;
+    padding: 4% 6%;
+  }
+
+  /* CTA */
+  .cta-box {
+    width: 35rem;
+    padding: 2rem 1rem;
+    margin: 0 1rem;
+  }
+
+  .top p {
+    width: 100%;
+  }
+
+  .bottom form {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  input[type="email"] {
+    width: 20rem;
+    margin-top: 2rem;
+  }
+
+  /* -- FOOTER -- */
+  #footer {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2rem;
+    padding: 10rem 1rem 4rem;
+  }
+
+  .footer-nav {
+    flex-direction: column;
+    gap: 0rem;
+  }
+
+  .footer-nav-links {
+    margin-top: 0;
+  }
+
+  .left-nav .f-nav-item:first-of-type {
+    padding-top: 0;
+  }
+
+  .btn-intro {
+    width: 20rem;
+  }
+}

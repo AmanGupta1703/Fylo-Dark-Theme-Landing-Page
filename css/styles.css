@@ -45,6 +45,7 @@ body {
   font-family: var(--ff-body);
   color: var(--white);
   transition: background-color 250ms ease-in;
+  max-width: 100vw;
 }
 
 /* HEADER SECTION */
@@ -135,35 +136,35 @@ body {
 } */
 
 #features {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    position: relative;
-    z-index: 1;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  position: relative;
+  z-index: 1;
 }
 
 .feature-item {
-    padding: 4rem 6rem;
+  padding: 4rem 6rem;
 }
 
 .feature-body {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .feature-img {
-    text-align: center;
+  text-align: center;
 }
 
 .small-heading {
-    margin-top: 1rem;
-    margin-bottom: .8rem;
+  margin-top: 1rem;
+  margin-bottom: 0.8rem;
 }
 
 .feature-text {
-    text-align: center;
-    width: 25rem;
+  text-align: center;
+  width: 25rem;
 }
 
 /* STORAGE SECTION */
@@ -184,7 +185,7 @@ body {
 
 .redirect-link {
   display: flex;
-  gap: .2rem;
+  gap: 0.2rem;
 }
 
 p a {
@@ -244,11 +245,11 @@ p a {
 }
 
 .username {
-  font-size: .8rem;
+  font-size: 0.8rem;
 }
 
 .user-info p {
-  font-size: .6rem;
+  font-size: 0.6rem;
 }
 
 /* CTA */
@@ -294,14 +295,18 @@ input[type="email"] {
 /* -- FOOTER -- */
 #footer {
   background-color: var(--dark-blue-footer-bg);
-  padding: 10% 6%;
+  padding: 10rem 6%;
   display: flex;
   align-items: center;
-  gap: 10rem;
+  gap: 8rem;
 }
 
 .address {
   width: 22rem;
+}
+
+.address img {
+  margin-right: 10px;
 }
 
 .contact-details {
@@ -312,14 +317,22 @@ input[type="email"] {
 
 .contact-details img {
   width: 1rem;
+  margin-right: 6px;
+}
+
+.footer-nav-links {
+  margin-top: 60px;
 }
 
 .footer-nav {
   display: flex;
   align-items: center;
-  gap: 3rem;
+  gap: 2rem;
 }
 
+.left-nav .f-nav-item:first-of-type {
+  padding-top: 40px;
+}
 
 .f-nav-item {
   list-style: none;
@@ -334,8 +347,7 @@ input[type="email"] {
   margin-right: 12px;
 }
 
-
 .social-media-links a:hover {
   border-color: var(--cyan-cta-gradient);
   color: var(--cyan-cta-gradient);
-}
+} 
